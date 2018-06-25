@@ -1,0 +1,23 @@
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\resources.pri
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\LandscapesMain\System.Runtime.WindowsRuntime.dll
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\LandscapesMain\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\LandscapesMain\LandscapesMain.exe
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\LandscapesMain\LandscapesMain.exe.config
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\LandscapesMain\LandscapesMain.pdb
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\AppxManifest.xml
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\Landscape UWP.build.appxrecipe
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\Landscape UWP.wapprojAssemblyReference.cache
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\Landscape UWP.wapproj.CoreCompileInputs.cache
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\priconfig.xml
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\priconfig.xml.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\layout.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\layout.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\resources.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\resources.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\pri.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\pri.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\qualifiers.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\qualifiers.txt.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\ProjectArchitectures.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Release\Landscape UWP.wapproj.LastBuild.txt

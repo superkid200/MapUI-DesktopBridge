@@ -1,0 +1,26 @@
+E:\LandscapesMain\Landscape UWP\Images\LockScreenLogo.scale-200.png
+E:\LandscapesMain\Landscape UWP\Images\Square150x150Logo.scale-200.png
+E:\LandscapesMain\Landscape UWP\Images\Square44x44Logo.scale-200.png
+E:\LandscapesMain\Landscape UWP\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\LandscapesMain\Landscape UWP\Images\StoreLogo.png
+E:\LandscapesMain\Landscape UWP\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd
+E:\LandscapesMain\Landscape UWP\bin\x86\Release\resources.pri
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETCore\v4.5\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\LandscapesMain\LandscapesMain\bin\Release\LandscapesMain.exe
+E:\LandscapesMain\LandscapesMain\bin\Release\LandscapesMain.exe.config
+E:\LandscapesMain\LandscapesMain\bin\Release\LandscapesMain.pdb
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\App.xbf
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\StoreLogo.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\clrcompression.dll
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\MainPage.xbf
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\MapUI.dll
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\MapUI.exe
+E:\LandscapesMain\MapUI\bin\x86\Release\ilc\MapUI.pdb

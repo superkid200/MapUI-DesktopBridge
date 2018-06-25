@@ -1,0 +1,1 @@
+E:\LandscapesMain\MapUI\MapUI.csproj;x86

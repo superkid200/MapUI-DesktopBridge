@@ -1,0 +1,2 @@
+E:\LandscapesMain\Landscape UWP\Landscape UWP.wapproj;x86
+E:\LandscapesMain\MapUI\MapUI.csproj;x86

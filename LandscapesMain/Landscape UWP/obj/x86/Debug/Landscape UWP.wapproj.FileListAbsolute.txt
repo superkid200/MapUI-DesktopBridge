@@ -1,0 +1,23 @@
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\resources.pri
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\LandscapesMain\System.Runtime.WindowsRuntime.dll
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\LandscapesMain\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\LandscapesMain\LandscapesMain.exe
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\LandscapesMain\LandscapesMain.exe.config
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\LandscapesMain\LandscapesMain.pdb
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\AppxManifest.xml
+E:\LandscapesMain\Landscape UWP\bin\x86\Debug\Landscape UWP.build.appxrecipe
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\Landscape UWP.wapprojAssemblyReference.cache
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\Landscape UWP.wapproj.CoreCompileInputs.cache
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\priconfig.xml
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\priconfig.xml.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\layout.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\layout.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\resources.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\resources.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\pri.resfiles
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\pri.resfiles.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\qualifiers.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\qualifiers.txt.intermediate
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\ProjectArchitectures.txt
+E:\LandscapesMain\Landscape UWP\obj\x86\Debug\Landscape UWP.wapproj.LastBuild.txt
